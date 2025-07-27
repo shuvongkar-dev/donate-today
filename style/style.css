@@ -179,3 +179,42 @@
 .plan-third{
     background-color: rgba(255, 244, 214, 1);
 }
+
+
+/* Contribute-section style */
+
+.Contribute-section{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    margin-bottom: 130px;
+}
+
+.Contribute-content{
+    display: flex;
+    align-items: center;
+    gap: 94px;
+    
+}
+
+.Contribute-content >img{
+    height: 477px;
+    width: 456px;
+}
+
+.Contribute-about h2{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.Contribute-about p{
+    font-size: 18px;
+    color: rgba(112, 112, 112, 1);
+    margin-bottom: 20px;
+    line-height: 28px;
+}
+
+.Contribute-about button{
+    margin-top: 10px;
+}
